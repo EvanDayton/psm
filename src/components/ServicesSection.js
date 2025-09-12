@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import styled from 'styled-components';
-import logo from '../assets/logo.png'; // Ensure you have the correct path to your logo
+import logo from '../logo.png';
 
 const PageContainer = styled.div`
   min-height: 100vh;
@@ -86,7 +86,7 @@ function ServicesSection() {
   ];
 
   return (
-    <PageContainer>
+    <PageContainer id="services">
       <ContentContainer>
         <Section>
           <Logo src={logo} alt="PSM Logo" />

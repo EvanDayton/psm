@@ -51,7 +51,7 @@ const Text = styled.p`
 
 function AboutSection() {
   return (
-    <SectionContainer id="about-section">
+    <SectionContainer id="about">
       <InnerContainer>
         <BigTextContainer>
           What does "good people creating great work" mean to you?

@@ -82,7 +82,7 @@ const LogoImage = styled.img`
 function ContentSection() {
   const scrollToAbout = (e) => {
     e.preventDefault();
-    const aboutSection = document.getElementById('about-section');
+    const aboutSection = document.getElementById('about');
     aboutSection.scrollIntoView({ behavior: 'smooth' });
   };
 
@@ -91,14 +91,14 @@ function ContentSection() {
       <LogoContainer>
         <LogoImage src={logo} alt="Company Logo" />
       </LogoContainer>
-      <Section>
+      <Section id="home">
         <TitleWrapper>
           <AnimatedTitle />
         </TitleWrapper>
         <Subtitle>
           We are a digital marketing agency based in Denver that strives to ensure that our services not only deliver a complete result of high quality but also an innovative solution that can improve your business.
         </Subtitle>
-        <ScrollLink href="#about-section" onClick={scrollToAbout}>
+        <ScrollLink href="#about" onClick={scrollToAbout}>
           What can we offer you? ↓
         </ScrollLink>
       </Section>

@@ -5,6 +5,8 @@ import BackgroundLayers from './components/BackgroundLayers';
 import ParticleEffect from './components/ParticleEffect';
 import ContentSection from './components/ContentSection';
 import AboutSection from './components/AboutSection';
+import ServicesSection from './components/ServicesSection';
+import ContactSection from './components/ContactSection';
 import Footer from './components/Footer';
 import CustomCursor from './components/CustomCursor';
 
@@ -30,6 +32,8 @@ function App() {
           <Navigation />
           <ContentSection />
           <AboutSection />
+          <ServicesSection />
+          <ContactSection />
           <Footer />
           <CustomCursor />
         </>
