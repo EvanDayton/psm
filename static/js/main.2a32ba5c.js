@@ -190,8 +190,8 @@
   padding: 80px 40px;
 `,Yb=an.img`
   position: fixed;
-  top: 30px;
-  left: 25px;
+  top: 10px;
+  left: 10px;
   z-index: 10;
   width: 180px;
   height: auto;
@@ -339,10 +339,10 @@
   max-width: 1200px;
 `,bS=an.img`
   position: fixed;
-  top: -35px;
-  left: -40px;
+  top: 10px;
+  left: 10px;
   z-index: 10;
-  width: 250px;
+  width: 180px;
   height: auto;
 `,SS=an.div`
   display: flex;
@@ -491,8 +491,8 @@
   color: rgba(255, 255, 255, 0.6);
 `,$S=an.img`
   position: fixed;
-  top: 30px;
-  left: 25px;
+  top: 10px;
+  left: 10px;
   z-index: 10;
   width: 180px;
   height: auto;
