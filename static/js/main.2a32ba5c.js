@@ -63,7 +63,7 @@
   &:hover::after {
     width: 100%;
   }
-`;const gn=function(){const e="/"===J().pathname;return(0,sn.jsx)(dn,{isLanding:e,children:(0,sn.jsxs)(pn,{isLanding:e,children:[(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/",children:"home *"})}),(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/about",children:"about *"})}),(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/services",children:"services *"})}),(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/contact",children:"contact *"})}),(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/goal",children:"goal *"})})]})})},vn=an.div`
+`;const gn=function(){const e="/"===J().pathname;return(0,sn.jsx)(dn,{isLanding:e,children:(0,sn.jsxs)(pn,{isLanding:e,children:[(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/",children:"home *"})}),(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/about",children:"about *"})}),(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/services",children:"services *"})}),(0,sn.jsx)(fn,{isLanding:e,children:(0,sn.jsx)(mn,{isLanding:e,to:"/contact",children:"contact *"})})]})})},vn=an.div`
   position: fixed;
   top: 0;
   left: 0;
