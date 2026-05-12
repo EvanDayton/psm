@@ -190,8 +190,8 @@
   padding: 80px 40px;
 `,Yb=an.img`
   position: fixed;
-  top: -20px;
-  left: -25px;
+  top: -35px;
+  left: -40px;
   z-index: 10;
   width: 180px;
   height: auto;
@@ -491,8 +491,8 @@
   color: rgba(255, 255, 255, 0.6);
 `,$S=an.img`
   position: fixed;
-  top: -20px;
-  left: -25px;
+  top: -35px;
+  left: -40px;
   z-index: 10;
   width: 180px;
   height: auto;
