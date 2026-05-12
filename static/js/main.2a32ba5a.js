@@ -190,10 +190,10 @@
   padding: 80px 40px;
 `,Yb=an.img`
   position: fixed;
-  top: -35px;
-  left: -40px;
+  top: -20px;
+  left: -25px;
   z-index: 10;
-  width: 212px;
+  width: 180px;
   height: auto;
 `,Kb=an.div`
   display: flex;
@@ -491,10 +491,10 @@
   color: rgba(255, 255, 255, 0.6);
 `,$S=an.img`
   position: fixed;
-  top: -35px;
-  left: -40px;
+  top: -20px;
+  left: -25px;
   z-index: 10;
-  width: 212px;
+  width: 180px;
   height: auto;
 `,ew=an.div`
   max-width: 1250px;
@@ -655,7 +655,7 @@
   align-items: center;
   margin-bottom: 20px;
 `,Qw=an.img`
-  width: 212px;
+  width: 180px;
   height: auto;
   margin-left: -30px;
   margin-top: -20px;
