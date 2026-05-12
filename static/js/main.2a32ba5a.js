@@ -193,7 +193,7 @@
   top: -35px;
   left: -40px;
   z-index: 10;
-  width: 250px;
+  width: 212px;
   height: auto;
 `,Kb=an.div`
   display: flex;
@@ -494,7 +494,7 @@
   top: -35px;
   left: -40px;
   z-index: 10;
-  width: 250px;
+  width: 212px;
   height: auto;
 `,ew=an.div`
   max-width: 1250px;
@@ -655,7 +655,7 @@
   align-items: center;
   margin-bottom: 20px;
 `,Qw=an.img`
-  width: 250px;
+  width: 212px;
   height: auto;
   margin-left: -30px;
   margin-top: -20px;
