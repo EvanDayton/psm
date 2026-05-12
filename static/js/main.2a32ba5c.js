@@ -141,11 +141,11 @@
   }
 `),zy=an.div`
   position: fixed;
-  top: -35px;
-  left: -40px;
+  top: 10px;
+  left: 10px;
   z-index: 10;
 `,By=an.img`
-  width: 250px;
+  width: 180px;
   height: auto;
   cursor: pointer;
 `;const Hy=function(){return(0,sn.jsxs)(sn.Fragment,{children:[(0,sn.jsx)(zy,{children:(0,sn.jsx)(By,{src:ky,alt:"Company Logo"})}),(0,sn.jsxs)(Oy,{children:[(0,sn.jsx)(Dy,{children:(0,sn.jsx)(Ny,{})}),(0,sn.jsx)(Uy,{children:"We are a digital marketing agency started in Denver that strives to ensure that our services not only deliver a complete result of high quality but also an innovative solution that can improve your business."}),(0,sn.jsx)(Fy,{href:"#about-section",onClick:e=>{e.preventDefault();document.getElementById("about-section").scrollIntoView({behavior:"smooth"})},children:"What can we offer you? \u2193"})]})]})},Vy=an.section`
@@ -657,8 +657,8 @@
 `,Qw=an.img`
   width: 180px;
   height: auto;
-  margin-left: -30px;
-  margin-top: -20px;
+  margin-left: 0px;
+  margin-top: 0px;
 `,Jw=an.div`
   font-family: 'Courier New', monospace;
   color: #fff;
